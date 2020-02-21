@@ -1,0 +1,11 @@
+Teste
+
+O sistema de autenticação deverá ser testado com ao menos 300 emails que não estão cadastrados.
+deverão ser feitos cadastros de usuarios semelhantes em x aspectos e testado se a integridade se mantem ao tentar acesso apenas alterando os emails sob diferentes condições variando do dispositivo.
+As viagens não podem ser perdidas mesmo com a queda da conexão após a solicitação do usuario. Dentro testes se qualidicam:
+Teste de adversidades em outras condições inesperadas.
+Queda de rede apos solicitação de viagem
+Feedback enviado logo apos uma queda de rede
+pagamento realizado em 4g, wifi e roaming
+queda de rede durante o voo
+Simulação de queda e pane de sistema do veiculo.

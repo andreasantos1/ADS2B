@@ -1,0 +1,1 @@
+O sistema será implementado na data combinada e deverá estar cumprimindo os requisitos necessarios para utilização em massa dos usuarios, na fase inicial deverá ser acompanhado constantemente para corrigir eventuais bugs, as atualizações ficaram por conta dos feedbacks e antes de implementa-las todas deverão ser testadas em um servidor para teste.

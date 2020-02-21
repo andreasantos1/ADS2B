@@ -1,0 +1,9 @@
+﻿Design
+
+Para todos os calculos será utilizado a linguagem Python junto ao framework flask.
+Para sincronização com banco de dados em nuvem será utilizado o sistema AWS da amazon.
+Para a area de formulario e autenticação de usúario e layout de interface será implementado java.
+A localização ficará por conta da integração com o google maps juntamente ao GPS do dispositivo movél.
+O sistema do veiculo deverá se comunicar com os radios controladores de voo das regiões em geral.
+para a automação do veiculo será utilizado um sistema de IA da google.
+O aplicativo devera se comunicar com gateway pagarme para realizar a autenticação de pagamentos.

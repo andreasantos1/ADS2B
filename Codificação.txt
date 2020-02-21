@@ -1,0 +1,8 @@
+Codificação
+O sistema do aplicativo será implementado idependente do sistema do veiculo
+por meio das linguagens ja descritas.
+As metodologias implementadas deverão corresponder com eficiencia aos requisitos minimos solicitados pelo usuario, visando o polimorfismo, encapsulamento e abstração.
+A hospedagem do apk será via play store da google onde será de acesso gratuito para download.
+O subsidio da hospedagem sera por conta dos anuncios exbidos no aplicativo.
+O acompanhamento em tempo real será por GPS juntamente a rede seja movel ou wifi.
+Todas as requisições e envio dos dados ficarão por conta da comunicação com servidor AWS.

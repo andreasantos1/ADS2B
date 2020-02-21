@@ -1,0 +1,15 @@
+﻿Analise 
+
+O aplicativo deverá possuir uma tela de cadastro para o cliente, onde o mesmo realizara o cadastro por e-mail e adotara uma senha para si.
+Após o cadastro ou login do usuario, o aplicativo devera conter uma tela onde ele consiga vizualizar o ponto de embarque mais proximo.
+Os pontos de embarque devem ter no maximo 5 km de distancia um do outro.
+Os veiculos devem ser autonomos e monitorados por uma central.
+O aplicativo devera conter os seguintes métodos de pagamento: Cartão de débito, credito e dinheiro.
+Ao finalizar a viagem o aplicativo solicitara ao usuário o feedback em ate 5 estrelas sendo opcional alguma sugestão ou reclamação.
+O software devera ter acesso ao banco de dados em nuvem para que grave as informações do cadastro dos usuários. 
+Deverá ser implementado um valor estático de U$ 10,00 por viagem. Os métodos de pagamento disponíveis deverão ser cartão de credito, débito e dinheiro.
+O serviço de localização utilizado será o do próprio dispositivo em tempo real
+com os servidores do aplicativo.
+A estimativa de tempo oferecida será baseada no percurso do passageiro ate o veiculo, mais o tempo de voo (variações climáticas não se aplicam).
+Durante a viagem o aplicativo deve mostrar a rota em tempo real para o usuario
+Os veículos deverão ser autônomos e conter um sistema anti pane. Quando detectado qualquer anomalia
